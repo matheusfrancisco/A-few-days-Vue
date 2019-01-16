@@ -8,6 +8,8 @@ It's a system for micro posts using vue and express kind of like a micro blog.
 
 [Click here](https://github.com/matheusfrancisco/A-few-days-Vue/tree/master/Micropost)
 
+![Image](https://github.com/matheusfrancisco/A-few-days-Vue/blob/master/imgmicropost.jpeg
+)
 
 ### Todo-APP 
 
